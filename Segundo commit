@@ -1,0 +1,10 @@
+# Prueba ti
+print("hola mundo")
+#mi primer cambio
+git status
+git add
+git commit -a -m "mi primer commit"
+git pull
+git push
+git config --global user.email "1348877@senati.pe"i
+git config --global user.name "1348877"
